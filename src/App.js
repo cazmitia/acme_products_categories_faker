@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import List from './List';
+import List from './list';
 
 class App extends Component{
     constructor() {
